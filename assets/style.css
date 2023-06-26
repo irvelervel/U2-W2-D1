@@ -1,0 +1,22 @@
+/* questo file adesso servirà solamente per le vostre "eccezioni"
+per le vostre aggiunte personalizzate che si andranno ad applicare in aggiunta alle classi di bootstrap
+*/
+
+/* importate i font da google senza problemi */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+#box {
+  /* valori in px non esistono in bootstrap */
+  width: 300px;
+  height: 300px;
+}
+
+#box-2 {
+  /* valori in px non esistono in bootstrap */
+  width: 200px;
+  height: 200px;
+}
